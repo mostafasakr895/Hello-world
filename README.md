@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 👋 Hi, I’m @mostafasakr895
+- 👋 Hi, I’m @mostafa sakr
 - 🔭 I’m interested in data science and  petroleum engineering
 - 🌱 I’m currently learning data science
 - 👯 I’m looking to collaborate on data science projects especially in petroleum engineering
